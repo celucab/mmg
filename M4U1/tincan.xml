@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://62YmCxt7HiM_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Evaluación en línea </name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5kTYA6ulbiM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/66BQXb8qnR4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción </name>
+			<description lang="und">Introducción </description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5xEbLXzqP7b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Top 5 de las herramientas de evaluación gratuitas más utilizadas</name>
+			<description lang="und">Top 5 de las herramientas de evaluación gratuitas más utilizadas</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5aNGUnotmDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Otras herramientas de evaluación gratuitas según la estrategia a emplear</name>
+			<description lang="und">Otras herramientas de evaluación gratuitas según la estrategia a emplear</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6AmolRz7YG7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6AmolRz7YG7/67MExeUWOAS" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6U2rtlsOmg9[.]choice_6Uuq43RLEOz</correctResponsePattern>
+				<correctResponsePattern>statement_6Wl5W70E1nX[.]choice_6MsTOQgDBO5</correctResponsePattern>
+				<correctResponsePattern>statement_6IzpuACcub4[.]choice_60sCOhxA02p</correctResponsePattern>
+				<correctResponsePattern>statement_6UsHcpUpJ85[.]choice_6lj0Jt8eMSc</correctResponsePattern>
+				<correctResponsePattern>statement_5ZeDw8FcauE[.]choice_5hqIhVgNvS1</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6U2rtlsOmg9</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+				<component>
+					<id>statement_6Wl5W70E1nX</id>
+					<description lang="und">Rectángulo 1</description>
+				</component>
+				<component>
+					<id>statement_6IzpuACcub4</id>
+					<description lang="und">Rectángulo 5</description>
+				</component>
+				<component>
+					<id>statement_6UsHcpUpJ85</id>
+					<description lang="und">Rectángulo 3</description>
+				</component>
+				<component>
+					<id>statement_5ZeDw8FcauE</id>
+					<description lang="und">Rectángulo 2</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6Uuq43RLEOz</id>
+					<description lang="und">Cuadro de texto 2 - Permite realizar evaluación entre pares y evaluación formativa.</description>
+				</component>
+				<component>
+					<id>choice_6MsTOQgDBO5</id>
+					<description lang="und">Cuadro de texto 3 - Permite generar cuestiones gamificadas y crear “memes”.</description>
+				</component>
+				<component>
+					<id>choice_60sCOhxA02p</id>
+					<description lang="und">Cuadro de texto 4 - Permite formular preguntas con feedback instantáneo.</description>
+				</component>
+				<component>
+					<id>choice_6lj0Jt8eMSc</id>
+					<description lang="und">Cuadro de texto 5 - Permite realizar procesos de evaluación  a través de rúbricas</description>
+				</component>
+				<component>
+					<id>choice_5hqIhVgNvS1</id>
+					<description lang="und">Cuadro de texto 6 - Herramienta que cuenta con la opción de generar un concurso.</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6dnOIjds6YM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>
