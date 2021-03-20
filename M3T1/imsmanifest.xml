@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_68WUdYHMN2J_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Qué son los recursos educativos digitales</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Qué_son_los_recursos_educativos_digitales_ORG">
+    <organization identifier="Qué_son_los_recursos_educativos_digitales_ORG">
+      <title>Qué son los recursos educativos digitales</title>
+      <item identifier="Legalidad_y_protección_del_negocio_SCO" isvisible="true" identifierref="__68WUdYHMN2J_course_id_RES">
+        <title>Qué son los recursos educativos digitales</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__68WUdYHMN2J_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5f9AimIFqyN_80_DX2800_DY2800_CX1400_CY700.jpg" />
+      <file href="mobile/5v0A1p4Uo9X_80_DX1490_DY1490_CX993_CY919.png" />
+      <file href="mobile/6b08xZTFDv1_80_DX600_DY600_CX443_CY67.png" />
+      <file href="mobile/5YLsocL4RyI_80_DX254_DY254_CX189_CY70.png" />
+      <file href="mobile/64k3p4wRbOF_80_DX1554_DY1554_CX1165_CY177.png" />
+      <file href="mobile/5hSXQS1XGgX_80_DX2800_DY2800_CX1400_CY700.jpg" />
+      <file href="mobile/6MjSuWSVIf2_80_DX114_DY114_CX85_CY83.png" />
+      <file href="mobile/5ZHqsPmcRpC_80_P_0_0_1425_1425_DX2022_DY2022_CX1056_CY1056.png" />
+      <file href="mobile/5VENM6U1BiE_80_DX748_DY748_CX561_CY561.png" />
+      <file href="mobile/62hwsOVV8gi_X_80_R9AF6FF_DX72_DY72_CX54_CY54.png" />
+      <file href="mobile/61HsVZCA0YD_80_DX1488_DY1488_CX1059_CY1116.png" />
+      <file href="mobile/5YAoYVuZE7i_80_DX2668_DY2668_CX1780_CY969.png" />
+      <file href="mobile/6AvLN0WOQ5S_80_P_0_9_146_271_DX186_DY186_CX70_CY130.png" />
+      <file href="mobile/6EYjawXoHjx_80_DX496_DY496_CX372_CY372.png" />
+      <file href="mobile/6n06uARq1kj_80_DX496_DY496_CX372_CY372.png" />
+      <file href="mobile/67RwOokuf6F_80_DX416_DY416_CX312_CY312.png" />
+      <file href="mobile/5zlUpa14OAQ_80_DX1124_DY1124_CX843_CY730.png" />
+      <file href="mobile/65c400NzrRu_80_DX496_DY496_CX372_CY372.png" />
+      <file href="mobile/6994ahwirK3_80_P_795_0_1252_1364_DX2100_DY2100_CX963_CY1050.png" />
+      <file href="mobile/5m3kiwOxI9Q_80_DX144_DY144_CX108_CY108.png" />
+      <file href="mobile/5sanv8DK2bi_80_DX128_DY128_CX96_CY96.png" />
+      <file href="mobile/6PD7XcWaBHY_80_DX176_DY176_CX132_CY132.png" />
+      <file href="mobile/5V8f85QIX5O_80_DX160_DY160_CX120_CY120.png" />
+      <file href="mobile/5zEPauI8dFy_80_DX1372_DY1372_CX1029_CY540.jpg" />
+      <file href="mobile/5qOqX3xHH9C_80_DX48_DY48_CX36_CY36.png" />
+      <file href="mobile/5mkrEyUx2ol_80_P_11_299_2048_1102_DX1368_DY1368_CX1025_CY552.png" />
+      <file href="mobile/5g2SGXLoRFR_80_P_-3_54_626_336_DX1252_DY1252_CX626_CY337.png" />
+      <file href="mobile/6UfymfsxsqM_80_P_0_0_626_336_DX1252_DY1252_CX626_CY337.png" />
+      <file href="mobile/5aDTUlTk8Ad_80_DX640_DY640_CX462_CY164.png" />
+      <file href="mobile/5w0Owq3eBV9_80_DX2800_DY2800_CX1400_CY700.png" />
+      <file href="mobile/6B233v6KXuj_Y_80_DX2482_DY2482_CX1162_CY633.png" />
+      <file href="mobile/5WfYpsn9qBj_80_DX1110_DY1110_CX832_CY168.png" />
+      <file href="mobile/6MjSuWSVIf2_80_DX82_DY82_CX61_CY60.png" />
+      <file href="mobile/6mddj8aeZ83_80_DX2800_DY2800_CX1400_CY700.png" />
+      <file href="mobile/5pyYaB0l1JF_80_DX524_DY524_CX336_CY393.png" />
+      <file href="mobile/62hwsOVV8gi_X_80_DX72_DY72_CX54_CY54.png" />
+      <file href="mobile/6LNlQUUpXMv_80_P_0_0_2048_1022_DX2834_DY2834_CX2048_CY1023.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dvEkiiEiIA.js" />
+      <file href="html5/data/js/5in6JqAkJEm.js" />
+      <file href="html5/data/js/5VLDhf6qeqU.js" />
+      <file href="html5/data/js/5wOKk9mmXfF.js" />
+      <file href="html5/data/js/60zJDPHnr7L.js" />
+      <file href="html5/data/js/6djwH4qrKyI.js" />
+      <file href="html5/data/js/6FGWoAXn2Kg.js" />
+      <file href="html5/data/js/6hs1MioJqRX.js" />
+      <file href="html5/data/js/6I8vnlNM6Uh.js" />
+      <file href="html5/data/js/6ji5FAJj03m.js" />
+      <file href="html5/data/js/6NQOrPrj0cg.js" />
+      <file href="html5/data/js/6omjEL3QG1S.js" />
+      <file href="html5/data/js/6RbgXcgB3La.js" />
+      <file href="html5/data/js/6ZKSIWsPRCa.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
