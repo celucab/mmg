@@ -2,7 +2,7 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
 	<activities>
 		<activity id="http://62YmCxt7HiM_course_id" type="http://adlnet.gov/expapi/activities/course">
-			<name lang="und">Recomendaciones para evaluar en línea</name>
+			<name lang="und">Recomendaciones para evaluar en línea </name>
 			<description lang="und" />
 			<launch lang="und">index_lms.html</launch>
 		</activity>
