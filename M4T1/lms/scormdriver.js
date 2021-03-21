@@ -27468,8 +27468,8 @@ var Cmi5;
 }());
 /* declare globals that are set via Desktop token replacement for configuration */
 var TC_COURSE_ID = "_62YmCxt7HiM_course_id";
-var TC_COURSE_NAME = "Evaluaci?n en l?nea ";
-var TC_COURSE_DESC = "Evaluaci?n en l?nea ";
+var TC_COURSE_NAME = "Herramientas gratuitas para evaluar en l?nea";
+var TC_COURSE_DESC = "Herramientas gratuitas para evaluar en l?nea";
 var TC_RECORD_STORES = "[]";
 
 /* declare other globals we'll use */
