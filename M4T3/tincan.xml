@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://62YmCxt7HiM_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Herramientas gratuitas para evaluar en línea</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5kTYA6ulbiM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/66BQXb8qnR4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción </name>
+			<description lang="und">Introducción </description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5xEbLXzqP7b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividades creativas para evaluar en línea</name>
+			<description lang="und">Actividades creativas para evaluar en línea</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5aNGUnotmDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Guía de cómo crear actividades interactivas para el éxito del proceso formativo</name>
+			<description lang="und">Guía de cómo crear actividades interactivas para el éxito del proceso formativo</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6k1GUfqSHaI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6k1GUfqSHaI/6WeqGtPYzw9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Los siete pasos a la hora de implementar actividades interactivas de evaluación en la modalidad en línea</name>
+			<description lang="und">Los siete pasos a la hora de implementar actividades interactivas de evaluación en la modalidad en línea</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_69SuarWuoGl[.]choice_6TUKSzcDt34</correctResponsePattern>
+				<correctResponsePattern>statement_5w7Dl7sk9fj[.]choice_6p3W0g9kN4s</correctResponsePattern>
+				<correctResponsePattern>statement_6TcI1dO3P1s[.]choice_696lqiaIsrQ</correctResponsePattern>
+				<correctResponsePattern>statement_6MmqmvLaSrM[.]choice_6oUssluYN1W</correctResponsePattern>
+				<correctResponsePattern>statement_6n49g1MmBIz[.]choice_60zF7Q6wh6x</correctResponsePattern>
+				<correctResponsePattern>statement_5zIBNQa6pAG[.]choice_68xinQdtsbF</correctResponsePattern>
+				<correctResponsePattern>statement_6RTPJ7T3B1A[.]choice_6GQNo4rZJ7N</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_69SuarWuoGl</id>
+					<description lang="und">Objetivo general </description>
+				</component>
+				<component>
+					<id>statement_5w7Dl7sk9fj</id>
+					<description lang="und">Metodología</description>
+				</component>
+				<component>
+					<id>statement_6TcI1dO3P1s</id>
+					<description lang="und">Posibilidades técnicas</description>
+				</component>
+				<component>
+					<id>statement_6MmqmvLaSrM</id>
+					<description lang="und">Selección de la herramienta a utilizar</description>
+				</component>
+				<component>
+					<id>statement_6n49g1MmBIz</id>
+					<description lang="und">Implementación</description>
+				</component>
+				<component>
+					<id>statement_5zIBNQa6pAG</id>
+					<description lang="und">Acompañamiento </description>
+				</component>
+				<component>
+					<id>statement_6RTPJ7T3B1A</id>
+					<description lang="und">Evaluación</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6TUKSzcDt34</id>
+					<description lang="und">finalidad de la actividad a evaluar.</description>
+				</component>
+				<component>
+					<id>choice_6p3W0g9kN4s</id>
+					<description lang="und">justificación de por qué esta actividad.</description>
+				</component>
+				<component>
+					<id>choice_696lqiaIsrQ</id>
+					<description lang="und">aspecto a evaluar por si los estudiantes puedan presentar algún inconveniente.</description>
+				</component>
+				<component>
+					<id>choice_6oUssluYN1W</id>
+					<description lang="und">en donde se diseñará la actividad.</description>
+				</component>
+				<component>
+					<id>choice_60zF7Q6wh6x</id>
+					<description lang="und">implica el diseño de las instrucciones de forma clara y determinación de los criterios a evaluar.</description>
+				</component>
+				<component>
+					<id>choice_68xinQdtsbF</id>
+					<description lang="und">apoyo que se le prestará a los estudiantes durante el desarrollo de la actividad.</description>
+				</component>
+				<component>
+					<id>choice_6GQNo4rZJ7N</id>
+					<description lang="und">implica la retroalimentación de los resultados obtenidos.</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/636fGto0Fzb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 2</name>
+			<description lang="und">Pregunta 2</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/636fGto0Fzb/6HKEEiOXN9Y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">En la Web existen muchas aplicaciones que permiten realizar actividadades dinámicas que pueden resultar atractivas e interesantes para nuestros estudiantes. </name>
+			<description lang="und">En la Web existen muchas aplicaciones que permiten realizar actividadades dinámicas que pueden resultar atractivas e interesantes para nuestros estudiantes. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5eLPMW0whUe</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5eLPMW0whUe</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_6HtQdqW0eUh</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6dnOIjds6YM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>

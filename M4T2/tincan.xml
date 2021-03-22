@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://62YmCxt7HiM_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Recomendaciones para evaluar en línea </name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5kTYA6ulbiM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/66BQXb8qnR4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción </name>
+			<description lang="und">Introducción </description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5xEbLXzqP7b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Planteamientos a tomar en cuenta a la hora de realizar una evaluación en línea</name>
+			<description lang="und">Planteamientos a tomar en cuenta a la hora de realizar una evaluación en línea</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5aNGUnotmDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tipos de evaluaciones que se pueden aplicar en la modalidad en línea</name>
+			<description lang="und">Tipos de evaluaciones que se pueden aplicar en la modalidad en línea</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6NqmwEjAbA7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Recomendaciones para evaluar en línea</name>
+			<description lang="und">Recomendaciones para evaluar en línea</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6AmolRz7YG7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6AmolRz7YG7/67MExeUWOAS" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6IzpuACcub4[.]choice_6Uuq43RLEOz</correctResponsePattern>
+				<correctResponsePattern>statement_5ZeDw8FcauE[.]choice_6MsTOQgDBO5</correctResponsePattern>
+				<correctResponsePattern>statement_6Wl5W70E1nX[.]choice_5nvgz0GvbDi</correctResponsePattern>
+				<correctResponsePattern>statement_6U2rtlsOmg9[.]choice_6pK3vDiL86T</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6IzpuACcub4</id>
+					<description lang="und">Rectángulo 5</description>
+				</component>
+				<component>
+					<id>statement_5ZeDw8FcauE</id>
+					<description lang="und">Rectángulo 2</description>
+				</component>
+				<component>
+					<id>statement_6Wl5W70E1nX</id>
+					<description lang="und">Rectángulo 1</description>
+				</component>
+				<component>
+					<id>statement_6U2rtlsOmg9</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6Uuq43RLEOz</id>
+					<description lang="und">Cuadro de texto 2 - Identificar instrucciones y criterios de evaluación.</description>
+				</component>
+				<component>
+					<id>choice_6MsTOQgDBO5</id>
+					<description lang="und">Cuadro de texto 3 - Definir el perfil de ingreso del estudiante y así establecer el perfil de salida; las evaluaciones deberán diseñarse en funcioón del perfil de salida. </description>
+				</component>
+				<component>
+					<id>choice_5nvgz0GvbDi</id>
+					<description lang="und">Cuadro de texto 8 - Contenidos conceptuales, procedimentales o actitudinales. </description>
+				</component>
+				<component>
+					<id>choice_6pK3vDiL86T</id>
+					<description lang="und">Cuadro de texto 9 - Momento en que se aplicará una evaluaciòn, ya sea diagnóstica, diaria, formativa o sumativa.</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6LyTb3SHpg3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 2</name>
+			<description lang="und">Pregunta 2</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6LyTb3SHpg3/6bZn2lhzlCE" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Algunos tipos de evaluación que se pueden realizar en línea son:</name>
+			<description lang="und">Algunos tipos de evaluación que se pueden realizar en línea son:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6VCvL3mCtbF</correctResponsePattern>
+				<correctResponsePattern>choice_6kdUgfhS4ss</correctResponsePattern>
+				<correctResponsePattern>choice_63w9M6b3wAG</correctResponsePattern>
+				<correctResponsePattern>choice_6SR7LKKCXpm</correctResponsePattern>
+				<correctResponsePattern>choice_5uNLMXeyb1e</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6VCvL3mCtbF</id>
+					<description lang="und">E-Portafolio.</description>
+				</component>
+				<component>
+					<id>choice_6kdUgfhS4ss</id>
+					<description lang="und">Prueba objetiva.</description>
+				</component>
+				<component>
+					<id>choice_63w9M6b3wAG</id>
+					<description lang="und">Estudio de casos.</description>
+				</component>
+				<component>
+					<id>choice_6SR7LKKCXpm</id>
+					<description lang="und">Proyecto.</description>
+				</component>
+				<component>
+					<id>choice_5uNLMXeyb1e</id>
+					<description lang="und">Intervenciones.</description>
+				</component>
+				<component>
+					<id>choice_6hN2hU5g1nN</id>
+					<description lang="und">Descalificativa.</description>
+				</component>
+				<component>
+					<id>choice_6TJ0X4W2xva</id>
+					<description lang="und">Prueba subjetiva.</description>
+				</component>
+				<component>
+					<id>choice_5gBfYIJYIKm</id>
+					<description lang="und">Enumerativa.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/68cZimD5rwQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 3</name>
+			<description lang="und">Pregunta 3</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/68cZimD5rwQ/66sH2sPN3Mb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Algunas recomendaciones a tomar en cuenta al momento de evaluar son: establece un plan, reformula los formatos tradicionales de evaluación, adapta las evaluaciones y evita la retroalimentación constante. </name>
+			<description lang="und">Algunas recomendaciones a tomar en cuenta al momento de evaluar son: establece un plan, reformula los formatos tradicionales de evaluación, adapta las evaluaciones y evita la retroalimentación constante. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6SWKO1n4lG6</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6aUNsIezReY</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_6SWKO1n4lG6</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://62YmCxt7HiM_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>

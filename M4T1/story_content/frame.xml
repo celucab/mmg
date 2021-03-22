@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Evaluaci&amp;#243;n en l&amp;#237;nea " />
+              <option name="title_text" value="Herramientas gratuitas para evaluar en l&amp;#237;nea" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1218,7 +1218,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="true" type="slide">
+        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5kTYA6ulbiM" displaytext="Introducción" expand="false" type="slide" />
@@ -1230,7 +1230,7 @@
             <slidelink slideid="_player.6XyF8uypmKg.5aNGUnotmDM" displaytext="Otras herramientas de evaluación gratuitas según la estrategia a emplear" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividad" expand="true" type="slide">
+        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividad" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6LTsMllXQf5.6AmolRz7YG7" displaytext="Pregunta 1" expand="false" type="slide" />
           </links>
