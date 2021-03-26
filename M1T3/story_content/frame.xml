@@ -1251,9 +1251,8 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="true" type="slide">
+        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.6ng2xZVodgV.5aNGUnotmDM" displaytext="Botones de navegación" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5kTYA6ulbiM" displaytext="Introducción" expand="false" type="slide" />
           </links>
@@ -1261,7 +1260,7 @@
         <slidelink slideid="_player.6XyF8uypmKg.5ydUTQa5sx0" displaytext="La importancia de la planificación en la modalidad en línea" expand="false" type="slide" />
         <slidelink slideid="_player.6XyF8uypmKg.65GeiPPHgmJ" displaytext="Características de un plan de clases para la presencialidad" expand="false" type="slide" />
         <slidelink slideid="_player.6XyF8uypmKg.6H2IiOuvhGm" displaytext="Características de un plan de clases para la formación en línea" expand="false" type="slide" />
-        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividad" expand="true" type="slide">
+        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividad" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6LTsMllXQf5.6org2eRwfDA" displaytext="Actividad 1" expand="false" type="slide" />
             <slidelink slideid="_player.6LTsMllXQf5.6iClccxXm5c" displaytext="Actividad 2" expand="false" type="slide" />
