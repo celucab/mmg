@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6QgK9Ee615j_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Herramientas gratuitas para evaluar en línea</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/5kTYA6ulbiM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/66BQXb8qnR4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción </name>
+			<description lang="und">Introducción </description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6ZF0rCOLwW3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción </name>
+			<description lang="und">Introducción </description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/5aNGUnotmDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pasos para elaborar y aplicar evaluaciones en línea</name>
+			<description lang="und">Pasos para elaborar y aplicar evaluaciones en línea</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/5xEbLXzqP7b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Herramientas para evaluar en línea</name>
+			<description lang="und">Herramientas para evaluar en línea</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6qbsHDEYKmI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Evaluaciones síncronas</name>
+			<description lang="und">Evaluaciones síncronas</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6L0L5JD2Ngq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Evaluaciones asíncronas</name>
+			<description lang="und">Evaluaciones asíncronas</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6PEfC4bsoF8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6PEfC4bsoF8/6GQVgFfOXFP" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Selecciona los 5 pasos a seguir para diseñar evaluaciones asíncronas </name>
+			<description lang="und">Selecciona los 5 pasos a seguir para diseñar evaluaciones asíncronas </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6FigLnz2OnD</correctResponsePattern>
+				<correctResponsePattern>choice_6EEgmNIkjMT</correctResponsePattern>
+				<correctResponsePattern>choice_6ExvY64s5rJ</correctResponsePattern>
+				<correctResponsePattern>choice_5V9NmALz0Qa</correctResponsePattern>
+				<correctResponsePattern>choice_66UklzNhVg0</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6FigLnz2OnD</id>
+					<description lang="und">Ten un Plan B.</description>
+				</component>
+				<component>
+					<id>choice_6EEgmNIkjMT</id>
+					<description lang="und">Establece los mecanismos de recuperación o segundo intento.</description>
+				</component>
+				<component>
+					<id>choice_6ExvY64s5rJ</id>
+					<description lang="und">Establece los mecanismos para aclaratoria de dudas.</description>
+				</component>
+				<component>
+					<id>choice_5V9NmALz0Qa</id>
+					<description lang="und">Establece un tiempo prudencial.</description>
+				</component>
+				<component>
+					<id>choice_66UklzNhVg0</id>
+					<description lang="und">Adecúa los enunciados.</description>
+				</component>
+				<component>
+					<id>choice_5ZdmWBlK4dR</id>
+					<description lang="und">Eliminar cualquier canal de comunicación entre el docente y el alumno.</description>
+				</component>
+				<component>
+					<id>choice_67Wqu2M5sEl</id>
+					<description lang="und">No existe la posibilidad de acalrar dudas.</description>
+				</component>
+				<component>
+					<id>choice_5tXMx98KMNS</id>
+					<description lang="und">Imitar lo realizado en la presencialidad.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6g7NETgRk5M" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 2</name>
+			<description lang="und">Pregunta 2</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6g7NETgRk5M/6iRrIVdzuXs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Para evaluaciones en tiempo difereido:</name>
+			<description lang="und">Para evaluaciones en tiempo difereido:</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6pqYRiVswaI[.]choice_6eBKljWASkq</correctResponsePattern>
+				<correctResponsePattern>statement_6DJrjTtfObd[.]choice_6HGKVBkfEZT</correctResponsePattern>
+				<correctResponsePattern>statement_6K4roIJWnqG[.]choice_6mMEnnvHuV2</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6pqYRiVswaI</id>
+					<description lang="und">Describe las instrucciones</description>
+				</component>
+				<component>
+					<id>statement_6DJrjTtfObd</id>
+					<description lang="und">Estable un tiempo prudencial</description>
+				</component>
+				<component>
+					<id>statement_6K4roIJWnqG</id>
+					<description lang="und">Aclaratoria de dudas y retroalimentación</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6eBKljWASkq</id>
+					<description lang="und">Es importante que sean precisas y claras sobre cuándo, cómo y dónde deberá responder o entregar la evaluación el estudiante</description>
+				</component>
+				<component>
+					<id>choice_6HGKVBkfEZT</id>
+					<description lang="und">Fecha y hora de inicio y cierre de la evaluación.</description>
+				</component>
+				<component>
+					<id>choice_6mMEnnvHuV2</id>
+					<description lang="und">Canales de comunicación que se podrán emplear y cuáles los momentos para aclarar dudas en relación a la evaluación. </description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6dnOIjds6YM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6QgK9Ee615j_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>

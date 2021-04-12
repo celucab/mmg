@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6PCTv6iOGpR_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Cómo crear actividades interactivas</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/5kTYA6ulbiM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/66BQXb8qnR4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción </name>
+			<description lang="und">Introducción </description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/5aNGUnotmDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cómo potenciar la creatividad</name>
+			<description lang="und">Cómo potenciar la creatividad</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6KW7fNCvh20" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Herramientas para crear contenidos y actividades interactivas</name>
+			<description lang="und">Herramientas para crear contenidos y actividades interactivas</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6AmolRz7YG7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6AmolRz7YG7/67MExeUWOAS" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6IzpuACcub4[.]choice_6Uuq43RLEOz</correctResponsePattern>
+				<correctResponsePattern>statement_6U2rtlsOmg9[.]choice_6MsTOQgDBO5</correctResponsePattern>
+				<correctResponsePattern>statement_6UsHcpUpJ85[.]choice_60sCOhxA02p</correctResponsePattern>
+				<correctResponsePattern>statement_5ZeDw8FcauE[.]choice_6lj0Jt8eMSc</correctResponsePattern>
+				<correctResponsePattern>statement_6Wl5W70E1nX[.]choice_5hqIhVgNvS1</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6IzpuACcub4</id>
+					<description lang="und">Rectángulo 5</description>
+				</component>
+				<component>
+					<id>statement_6U2rtlsOmg9</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+				<component>
+					<id>statement_6UsHcpUpJ85</id>
+					<description lang="und">Rectángulo 3</description>
+				</component>
+				<component>
+					<id>statement_5ZeDw8FcauE</id>
+					<description lang="und">Rectángulo 2</description>
+				</component>
+				<component>
+					<id>statement_6Wl5W70E1nX</id>
+					<description lang="und">Rectángulo 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6Uuq43RLEOz</id>
+					<description lang="und">Cuadro de texto 2 - Herramientas que permiten reunir los trabajos que realizan los alumnos.</description>
+				</component>
+				<component>
+					<id>choice_6MsTOQgDBO5</id>
+					<description lang="und">Cuadro de texto 3 - Herramientas que permiten diagnosticar o evaluar de manera formativa qué tanto conoce o aprendió un alumno.</description>
+				</component>
+				<component>
+					<id>choice_60sCOhxA02p</id>
+					<description lang="und">Cuadro de texto 4 - Herramientas para desarrollar preguntas de tipo cerrado y los alumnos pueden responder de manera síncrona. </description>
+				</component>
+				<component>
+					<id>choice_6lj0Jt8eMSc</id>
+					<description lang="und">Cuadro de texto 5 - Herramientas lúdicas que permiten reforzar los contenidos de un tema particular.</description>
+				</component>
+				<component>
+					<id>choice_5hqIhVgNvS1</id>
+					<description lang="und">Cuadro de texto 6 - Se caracterizan por explicar un contenido de manera narrada,  utiliza caracteres animados.</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6LaFSHt19mB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 2</name>
+			<description lang="und">Pregunta 2</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6LaFSHt19mB/69QApzs7Lht" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Selecciona cinco recomendaciones que según Universia sirven para potenciar la creatividad en clases:</name>
+			<description lang="und">Selecciona cinco recomendaciones que según Universia sirven para potenciar la creatividad en clases:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6kMkdu5iO4Y</correctResponsePattern>
+				<correctResponsePattern>choice_6RQ2f6AE5XI</correctResponsePattern>
+				<correctResponsePattern>choice_6BeJEbGMgf2</correctResponsePattern>
+				<correctResponsePattern>choice_67UIIlcUDzZ</correctResponsePattern>
+				<correctResponsePattern>choice_6iI5pwSNlZ6</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6kMkdu5iO4Y</id>
+					<description lang="und">Diseña lecciones multidisciplinarias. </description>
+				</component>
+				<component>
+					<id>choice_6RQ2f6AE5XI</id>
+					<description lang="und">Aprovecha la tecnología.</description>
+				</component>
+				<component>
+					<id>choice_6BeJEbGMgf2</id>
+					<description lang="und">Fomenta el intercambio de roles.</description>
+				</component>
+				<component>
+					<id>choice_67UIIlcUDzZ</id>
+					<description lang="und">Bríndales un feedback personalizado.</description>
+				</component>
+				<component>
+					<id>choice_6iI5pwSNlZ6</id>
+					<description lang="und">Haz que tus alumnos busquen soluciones por sí mismos. </description>
+				</component>
+				<component>
+					<id>choice_5yOVHR5Jti3</id>
+					<description lang="und">Diseña lecciones usando pocos recursos de apoyo. </description>
+				</component>
+				<component>
+					<id>choice_6iAd9t0GCg1</id>
+					<description lang="und">No se recomienda el uso de tecnologías. </description>
+				</component>
+				<component>
+					<id>choice_5c3SUeX77Nv</id>
+					<description lang="und">No brindes feedback personalizado. </description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6dnOIjds6YM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6PCTv6iOGpR_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>
