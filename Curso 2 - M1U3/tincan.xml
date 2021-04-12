@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://62VPldu9KWO_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Curso2 M1U3 - Estrategias de planificación para la enseñanza en línea</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6KGvMnmryMy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6hyd4C3Pjho" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6Fzphy8cWaX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5lh5CB7q4qj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Estrategias didácticas centradas en el participante</name>
+			<description lang="und">Estrategias didácticas centradas en el participante</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5wjwUcq3VnX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Estrategias didácticas centradas en el participante1</name>
+			<description lang="und">Estrategias didácticas centradas en el participante1</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6MvSELtj3tN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 1</name>
+			<description lang="und">Actividad 1</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6MvSELtj3tN/5hFEe1zwlYZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Respuesta múltiple</name>
+			<description lang="und">Respuesta múltiple</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6JyTypxHmjL</correctResponsePattern>
+				<correctResponsePattern>choice_6I2UPI19XyQ</correctResponsePattern>
+				<correctResponsePattern>choice_6i8htaCH9nD</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6JyTypxHmjL</id>
+					<description lang="und">Trabajos colaborativos.</description>
+				</component>
+				<component>
+					<id>choice_6I2UPI19XyQ</id>
+					<description lang="und">Juegos de roles.</description>
+				</component>
+				<component>
+					<id>choice_6i8htaCH9nD</id>
+					<description lang="und">Metodologías ágiles.</description>
+				</component>
+				<component>
+					<id>choice_6jI0Zbbi5oK</id>
+					<description lang="und">Lectura previa.</description>
+				</component>
+				<component>
+					<id>choice_6eiId9JDd4q</id>
+					<description lang="und">Diseño instruccional.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5xsKTNVtagq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 2</name>
+			<description lang="und">Actividad 2</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5xsKTNVtagq/6VEr1wXdNXf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Opción múltiple</name>
+			<description lang="und">Opción múltiple</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6mC4Slsq42D</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6mC4Slsq42D</id>
+					<description lang="und">Estudiante-Contenido. Estudiante-Estudiante. Estudiante-Docente.</description>
+				</component>
+				<component>
+					<id>choice_5hjrxtGLQcj</id>
+					<description lang="und">Estudiante-Contenido. Estudiante-Docente. Docente-Institución.</description>
+				</component>
+				<component>
+					<id>choice_6isbHevYcRz</id>
+					<description lang="und">Estudiante-Contenido. Estudiante-Estudiante. Estudiante-Institución.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6iClccxXm5c" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 3</name>
+			<description lang="und">Actividad 3</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6iClccxXm5c/6qkwOJavsqG" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_61yGq3GltiU[.]choice_6U4Oh9Xxap5</correctResponsePattern>
+				<correctResponsePattern>statement_5hSlt1hfULh[.]choice_64ggrAcT4Mt</correctResponsePattern>
+				<correctResponsePattern>statement_5ZsTGwmIZcS[.]choice_5pGeLzhVuMv</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_61yGq3GltiU</id>
+					<description lang="und">Rectángulo 2</description>
+				</component>
+				<component>
+					<id>statement_5hSlt1hfULh</id>
+					<description lang="und">Rectángulo 1</description>
+				</component>
+				<component>
+					<id>statement_5ZsTGwmIZcS</id>
+					<description lang="und">Rectángulo 3</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6U4Oh9Xxap5</id>
+					<description lang="und">Cuadro de texto 3 - planificación, intención y diseño instruccional</description>
+				</component>
+				<component>
+					<id>choice_64ggrAcT4Mt</id>
+					<description lang="und">Cuadro de texto 4 - involucrar a los estudiantes </description>
+				</component>
+				<component>
+					<id>choice_5pGeLzhVuMv</id>
+					<description lang="und">Cuadro de texto 5 - un aprendizaje más profundo y permanente</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>
