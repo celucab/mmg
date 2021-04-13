@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_62VPldu9KWO_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Curso2 M2U2 - Cómo potenciar mi aula virtual</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Curso2_M2U2_-_Cómo_potenciar_mi_aula_virtual_ORG">
+    <organization identifier="Curso2_M2U2_-_Cómo_potenciar_mi_aula_virtual_ORG">
+      <title>Curso2 M2U2 - Cómo potenciar mi aula virtual</title>
+      <item identifier="M1T1_-_Situación_actual_de_la_educación_en_línea_SCO" isvisible="true" identifierref="__62VPldu9KWO_course_id_RES">
+        <title>Curso2 M2U2 - Cómo potenciar mi aula virtual</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__62VPldu9KWO_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5f9AimIFqyN_80_DX2800_DY2800_CX1400_CY700.jpg" />
+      <file href="mobile/5v0A1p4Uo9X_80_DX1490_DY1490_CX993_CY919.png" />
+      <file href="mobile/6b08xZTFDv1_80_DX600_DY600_CX443_CY67.png" />
+      <file href="mobile/5YLsocL4RyI_80_DX254_DY254_CX189_CY70.png" />
+      <file href="mobile/64k3p4wRbOF_80_DX1554_DY1554_CX1165_CY177.png" />
+      <file href="mobile/6We5mbxa6bc_80_DX160_DY160_CX120_CY120.png" />
+      <file href="mobile/5aTcALhhDoT_80_DX2114_DY2114_CX1264_CY711.png" />
+      <file href="mobile/6e2gILDVUnB_80_DX1062_DY1062_CX470_CY531.png" />
+      <file href="mobile/5hSXQS1XGgX_80_DX2800_DY2800_CX1400_CY700.jpg" />
+      <file href="mobile/6MjSuWSVIf2_80_DX114_DY114_CX85_CY83.png" />
+      <file href="story_content/video_5fFVvHNuIrp_22_56_1438x808.mp4" />
+      <file href="mobile/poster_5WbcWpi26ou_video_5fFVvHNuIrp_22_56_1438x808.jpg" />
+      <file href="story_content/DarkUpwardDiagonal_00589B_FFFFFF.jpg" />
+      <file href="mobile/69Q4axnemvc_80_DX2116_DY2116_CX1587_CY1059.jpg" />
+      <file href="mobile/5ZRI2HiGjlo_80_DX1398_DY1398_CX943_CY1048.png" />
+      <file href="mobile/5ZZCtwtslhA_80_DX80_DY80_CX60_CY60.png" />
+      <file href="mobile/5qOqX3xHH9C_80_DX48_DY48_CX36_CY36.png" />
+      <file href="mobile/65w9yV2WkWP_80_DX2098_DY2098_CX1573_CY1050.jpg" />
+      <file href="mobile/5v1fY3Pk1ea_80_P_0_0_322_245_DX796_DY796_CX322_CY245.png" />
+      <file href="mobile/5YAoYVuZE7i_80_DX2668_DY2668_CX1780_CY969.png" />
+      <file href="mobile/69sRrAP8x7X_80_P_170_15_392_401_DX1252_DY1252_CX393_CY402.png" />
+      <file href="mobile/5qYMyszyFrq_80_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5Z1ocjH75y0_80_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5wPVHckSBAm_80_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/60zrI8dUqv0_80_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5tPNSSLZVCi_80_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5eDUo90iCy4_80_DX1096_DY1096_CX822_CY822.jpg" />
+      <file href="mobile/5eCjUixR7T4_80_DX160_DY160_CX120_CY120.png" />
+      <file href="mobile/5ViJJnNh406_80_DX160_DY160_CX120_CY120.png" />
+      <file href="mobile/5rRwPhwTaqX_80_DX160_DY160_CX120_CY120.png" />
+      <file href="mobile/6eVhlnNGB2G_80_DX160_DY160_CX120_CY120.png" />
+      <file href="mobile/5xlwda7cTbX_80_DX568_DY568_CX284_CY272.png" />
+      <file href="mobile/5rBXO0X3sTu_80_DX568_DY568_CX284_CY272.png" />
+      <file href="mobile/5e9wuXUvMOW_80_DX568_DY568_CX284_CY272.png" />
+      <file href="mobile/5XwcYFrRwgj_80_DX568_DY568_CX284_CY272.png" />
+      <file href="mobile/5aDTUlTk8Ad_80_DX640_DY640_CX462_CY164.png" />
+      <file href="mobile/5w0Owq3eBV9_80_DX2800_DY2800_CX1400_CY700.png" />
+      <file href="mobile/6B233v6KXuj_Y_80_DX2482_DY2482_CX1162_CY633.png" />
+      <file href="mobile/5WfYpsn9qBj_80_DX1110_DY1110_CX832_CY168.png" />
+      <file href="mobile/6MjSuWSVIf2_80_DX114_DY114_CX61_CY60.png" />
+      <file href="mobile/6mddj8aeZ83_80_DX2800_DY2800_CX1400_CY700.png" />
+      <file href="story_content/video_6UcixcFdjUc_22_56_1416x746.mp4" />
+      <file href="mobile/poster_6qULZOJb4w9_video_6UcixcFdjUc_22_56_1416x746.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dvEkiiEiIA.js" />
+      <file href="html5/data/js/5hEYuFY0sGM.js" />
+      <file href="html5/data/js/5lh5CB7q4qj.js" />
+      <file href="html5/data/js/5wOKk9mmXfF.js" />
+      <file href="html5/data/js/5zfl0ODdmYH.js" />
+      <file href="html5/data/js/60zJDPHnr7L.js" />
+      <file href="html5/data/js/63MFH0Jjk3y.js" />
+      <file href="html5/data/js/6Fzphy8cWaX.js" />
+      <file href="html5/data/js/6hyd4C3Pjho.js" />
+      <file href="html5/data/js/6ji5FAJj03m.js" />
+      <file href="html5/data/js/6KGvMnmryMy.js" />
+      <file href="html5/data/js/6kTRO30937Z.js" />
+      <file href="html5/data/js/6lbff6xsF3h.js" />
+      <file href="html5/data/js/6MfizzitXbT.js" />
+      <file href="html5/data/js/6MvSELtj3tN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
